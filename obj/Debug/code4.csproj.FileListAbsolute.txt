@@ -1,0 +1,6 @@
+c:\users\mcyal\source\repos\code4\code4\bin\Debug\code4.exe.config
+c:\users\mcyal\source\repos\code4\code4\bin\Debug\code4.exe
+c:\users\mcyal\source\repos\code4\code4\bin\Debug\code4.pdb
+c:\users\mcyal\source\repos\code4\code4\obj\Debug\code4.csproj.CoreCompileInputs.cache
+c:\users\mcyal\source\repos\code4\code4\obj\Debug\code4.exe
+c:\users\mcyal\source\repos\code4\code4\obj\Debug\code4.pdb
